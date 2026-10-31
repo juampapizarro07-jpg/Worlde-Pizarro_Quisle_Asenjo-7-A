@@ -1,6 +1,4 @@
 # Worlde-Pizarro_Quisle_Asenjo-7-A
-# Wordle en español
-
 Juego de Wordle para la terminal, con tres dificultades:
 
 | Dificultad | Letras |

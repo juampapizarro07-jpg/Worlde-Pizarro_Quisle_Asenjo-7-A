@@ -70,9 +70,3 @@ palabras/
   palabras_4.txt       respuestas posibles (nivel 1 = primera línea)
   palabras_5.txt
   palabras_6.txt
-```
-
-## Créditos
-
-Lista de frecuencias: [FrequencyWords](https://github.com/hermitdave/FrequencyWords) de Hermit Dave (licencia MIT), basada en OpenSubtitles.
- 

@@ -1,4 +1,4 @@
-# Worlde-Pizarro_Quisle_Asenjo-7-A
+# Worlde-Pizarro_Quisle_Asenjo-7°A
 Juego de Wordle para la terminal, con tres dificultades:
 
 | Dificultad | Letras |
